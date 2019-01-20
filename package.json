@@ -1,0 +1,15 @@
+{
+  "name": "nightwatchframework",
+  "version": "1.0.0",
+  "description": "Nightwatch Automation Framework",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Aditya Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "nightwatch": "^1.0.18"
+  }
+}
