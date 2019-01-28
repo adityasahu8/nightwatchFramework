@@ -21,6 +21,6 @@ module.exports = {
         .enterPasswordTextBox()
         .clickOnLoginButton()
         .pause(9000)
-        .assert.title("AvaTax");
+        .assert.title("AvadTax");
     }
   };

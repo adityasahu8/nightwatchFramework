@@ -8,7 +8,8 @@ module.exports = {
 
       browser
         .url('http://admin.avalara.com')
-        .pause(5000);
+        .pause(5000); 
+        
     },
     
     after: function(browser){
