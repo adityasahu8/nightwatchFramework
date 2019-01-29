@@ -1,9 +1,9 @@
 let loginCommands = {
     enterUserNameTextBox: function(){
-        return this.setValue("@userNameTextBox", "aditya_prod");
+        return this.setValue("@userNameTextBox", "");
     },
     enterPasswordTextBox: function(){
-        return this.setValue("@passwordTextBox", "aditya@123");
+        return this.setValue("@passwordTextBox", "");
     },
     clickOnLoginButton: function(){
         return this.click("@loginButton");
